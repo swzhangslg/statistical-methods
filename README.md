@@ -10,3 +10,13 @@ Spring 2021
 
 [**4_Simple Linear Regression**](https://github.com/swzhangslg/statistical-methods/blob/main/4_Simple%20Linear%20Regression.ipynb)
 
+[**5_Multiple Linear Regression**](https://github.com/swzhangslg/statistical-methods/blob/main/5_Multiple%20Linear%20Regression.ipynb)
+
+[**6_Stochastic simulation**](https://github.com/swzhangslg/statistical-methods/blob/main/6_Stochastic%20simulation.py)
+
+[**7_Multicollinearity**](https://github.com/swzhangslg/statistical-methods/blob/main/7_Multicollinearity.ipynb)
+
+[**8_MulticollinearityPCR**](https://github.com/swzhangslg/statistical-methods/blob/main/8_MulticollinearityPCR.ipynb)
+
+[**9_Multicollinearity_Ridge_Regression**](https://github.com/swzhangslg/statistical-methods/blob/main/9_Multicollinearity_Ridge_Regression.ipynb)
+
